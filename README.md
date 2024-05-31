@@ -17,7 +17,7 @@ Sou Engenheira de Dados com Mestrado em Ciência da Informação pela UNESP (Uni
 ### 🛠️ Habilidades Técnicas
 
 Possuo sólida experiência em Python, minha principal linguagem de programação. Também possuo experiência com tecnologias de Cloud, especialmente Amazon Web Services (AWS).
-Na área de Engenharia de Dados, tenho conhecimentos sólidos em armazenamento e ingestão de dados, utilizando AWS S3, AWS Glue, AWS DMS (Data Migration Service) e RDS (Relational Database Service). Para o processamento e orquestração de dados, trabalho com ferramentas como AWS Redshift, AWS Athena, AWS Lambda, Apache Airflow (MWAA), Mage.ai e DBT. Minha competência também inclui monitoramento e gestão com AWS CloudWatch e AWS SNS (Simple Notification Service).
+Na área de Engenharia de Dados, tenho conhecimentos sólidos em armazenamento e ingestão de dados, utilizando AWS S3, AWS Glue, AWS DMS (Data Migration Service) e RDS (Relational Database Service). Para o processamento e orquestração de dados, trabalho com ferramentas como AWS Redshift, AWS Athena, AWS Lambda, Apache Airflow (MWAA), Mage.ai, DBT, monitoramento com AWS CloudWatch e AWS SNS (Simple Notification Service).
 
 Além disso, tenho habilidades essenciais em ETL (Extract, Transform, Load), modelagem de dados, construção de pipelines de dados, processamento de dados, visualização de dados e garantia da qualidade dos dados. Outras ferramentas e tecnologias com as quais trabalho incluem SQL, bancos de dados, deep learning, processamento de linguagem natural (NLP), modelos de linguagem (LLMs) e geração de inteligência artificial (GenAI).
 
