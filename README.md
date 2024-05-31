@@ -1,5 +1,5 @@
 
-## Olá, eu sou a Nathalia Adriele!
+### Olá, eu sou a Nathalia Adriele!
 
 Sou Engenheira de Dados com Mestrado em Ciência da Informação pela UNESP (Universidade Estadual Paulista) e atualmente estou cursando MBA em Data Science and Analytics na USP (Universidade de São Paulo). Tenho um grande entusiasmo em transformar dados em insights significativos e trabalho com tecnologias como Python, Deep Learning, NLP, LLMs e GenAI.
 
@@ -12,7 +12,7 @@ Sou Engenheira de Dados com Mestrado em Ciência da Informação pela UNESP (Uni
   <img align="center" alt="Airflow" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg">
 </div>
 
-## 🛠️ Habilidades Técnicas
+### 🛠️ Habilidades Técnicas
 
 Possuo sólida experiência em Python, minha principal linguagem de programação. Também possuo experiência com tecnologias de Cloud, especialmente Amazon Web Services (AWS).
 Na área de Engenharia de Dados, tenho conhecimentos sólidos em armazenamento e ingestão de dados, utilizando AWS S3, AWS Glue, AWS DMS (Data Migration Service) e RDS (Relational Database Service). Para o processamento e orquestração de dados, trabalho com ferramentas como AWS Redshift, AWS Athena, AWS Lambda, Apache Airflow (MWAA), Mage.ai e DBT.
@@ -23,7 +23,18 @@ Também possuo experiência significativa na área de qualidade, onde atuei em Q
 
 ---
 
-## 📫 Contato
+### GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/nathadriele">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nathadriele&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nathadriele&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+---
+
+### 📫 Contato
 
 <div>
   <a href="https://instagram.com/nathadriele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
