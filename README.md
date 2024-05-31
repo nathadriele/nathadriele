@@ -12,6 +12,8 @@ Sou Engenheira de Dados com Mestrado em Ciência da Informação pela UNESP (Uni
   <img align="center" alt="Airflow" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg">
 </div>
 
+---
+
 ### 🛠️ Habilidades Técnicas
 
 Possuo sólida experiência em Python, minha principal linguagem de programação. Também possuo experiência com tecnologias de Cloud, especialmente Amazon Web Services (AWS).
