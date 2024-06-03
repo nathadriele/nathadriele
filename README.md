@@ -10,6 +10,9 @@ Sou Engenheira de Dados com Mestrado em Ciência da Informação pela UNESP (Uni
   <img align="center" alt="GraphQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">
   <img align="center" alt="Neo4j" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg">
   <img align="center" alt="Airflow" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Ruby" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">  
 </div>
 
 ---
