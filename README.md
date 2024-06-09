@@ -1,7 +1,5 @@
 
 ### Olá, eu sou a Nathalia Adriele!
-<img src="https://img1.picmix.com/output/stamp/normal/7/1/4/6/26417_bbbab.gif" width="60" height="50" style="margin-top: 10px;">
-
 
 Sou Engenheira de Dados com Mestrado em Ciência da Informação pela UNESP (Universidade Estadual Paulista) e atualmente estou cursando MBA em Data Science and Analytics na USP (Universidade de São Paulo). Tenho um grande entusiasmo em transformar dados em insights significativos e trabalho com tecnologias como Python, Deep Learning, NLP, LLMs e GenAI.
 
