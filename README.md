@@ -1,7 +1,7 @@
 
-### Olá, eu sou a Nathalia Adriele!
+### Hello, I'm Nathalia Adriele!
 
-Sou Engenheira de Dados com Mestrado em Ciência da Informação pela UNESP (Universidade Estadual Paulista) e atualmente estou cursando MBA em Data Science and Analytics na USP (Universidade de São Paulo). Tenho um grande entusiasmo em transformar dados em insights significativos e trabalho com tecnologias como Python, Deep Learning, NLP, LLMs e GenAI.
+I am a Data Engineer with a Master's degree in Information Science from UNESP (Universidade Estadual Paulista) and I am currently studying an MBA in Data Science and Analytics at USP (University of São Paulo). I am passionate about transforming data into meaningful insights and work with technologies such as Python, Deep Learning, NLP, LLMs and GenAI.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
@@ -11,20 +11,19 @@ Sou Engenheira de Dados com Mestrado em Ciência da Informação pela UNESP (Uni
   <img align="center" alt="Neo4j" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original.svg">
   <img align="center" alt="Airflow" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Ruby" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">  
 </div>
 
 ---
 
-### 🛠️ Habilidades Técnicas
+### 🛠️ Technical Skills
 
-Possuo sólida experiência em Python, minha principal linguagem de programação. Também possuo experiência com tecnologias de Cloud, especialmente Amazon Web Services (AWS).
-Na área de Engenharia de Dados, tenho conhecimentos sólidos em armazenamento e ingestão de dados, utilizando AWS S3, AWS Glue, AWS DMS (Data Migration Service) e RDS (Relational Database Service). Para o processamento e orquestração de dados, trabalho com ferramentas como AWS Redshift, AWS Athena, AWS Lambda, Apache Airflow (MWAA), Mage.ai, DBT, monitoramento com AWS CloudWatch e AWS SNS (Simple Notification Service).
+I have experience in Python, my main programming language. I also have experience with Cloud technologies, especially Amazon Web Services (AWS).
+In the Data Engineering area, I have solid knowledge in data storage and ingestion, using AWS S3, AWS Glue, AWS DMS (Data Migration Service) and RDS (Relational Database Service). For data processing and orchestration, I work with tools such as AWS Redshift, AWS Athena, AWS Lambda, Apache Airflow (MWAA), Mage.ai, DBT, monitoring with AWS CloudWatch and AWS SNS (Simple Notification Service).
 
-Além disso, tenho habilidades essenciais em ETL (Extract, Transform, Load), modelagem de dados, construção de pipelines de dados, processamento de dados, visualização de dados e garantia da qualidade dos dados. Outras ferramentas e tecnologias com as quais trabalho incluem SQL, bancos de dados, deep learning, processamento de linguagem natural (NLP), modelos de linguagem (LLMs) e geração de inteligência artificial (GenAI).
+Additionally, I have essential skills in ETL (Extract, Transform, Load), data modeling, building data pipelines, data processing, data visualization, and data quality assurance. Other tools and technologies I work with include SQL, databases, deep learning, natural language processing (NLP), language models (LLMs), and generating artificial intelligence (GenAI).
 
-Também possuo experiência significativa na área de qualidade, onde atuei em Quality Assurance (QA). Na execução de testes, realizei testes Front-end e Back-end utilizando JavaScript, Ruby e Python, desenvolvi, analisei e explorei cenários de teste para identificar inconsistências. Documentei APIs, gerenciei bugs, re-testes e priorizei testes após configurações, otimizando a correção de bugs e melhorando a qualidade do produto.
+I also have experience in the quality area, where I worked in Quality Assurance (QA). When executing tests, I performed Front-end and Back-end tests using JavaScript, Ruby and Python, developed, analyzed and explored test scenarios to identify inconsistencies. Documented APIs, managed bugs, re-tests and prioritized tests after configurations, optimizing bug fixes and improving product quality.
 
 ---
 
@@ -39,7 +38,7 @@ Também possuo experiência significativa na área de qualidade, onde atuei em Q
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 <div>
   <a href="https://instagram.com/nathadriele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
