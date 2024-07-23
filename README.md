@@ -18,7 +18,7 @@ I am a Data Engineer with a Master's degree in Information Science from UNESP (U
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 I have experience in Python, my main programming language. I also have experience with Cloud technologies, especially Amazon Web Services (AWS).
 In the Data Engineering area, I have solid knowledge in data storage and ingestion, using AWS S3, AWS Glue, AWS DMS (Data Migration Service) and RDS (Relational Database Service). For data processing and orchestration, I work with tools such as AWS Redshift, AWS Athena, AWS Lambda, Apache Airflow (MWAA), Mage.ai, DBT, monitoring with AWS CloudWatch and AWS SNS (Simple Notification Service).
@@ -40,7 +40,7 @@ I also have experience in the quality area, where I worked in Quality Assurance 
 
 ---
 
-### 📫 Contact
+### Contact
 
 <div>
   <a href="https://instagram.com/nathadriele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
