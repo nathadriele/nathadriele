@@ -20,12 +20,21 @@ I am a Data Engineer with a Master's degree in Information Science from UNESP (U
 
 ### Technical Skills
 
-I have experience in Python, my main programming language. I also have experience with Cloud technologies, especially Amazon Web Services (AWS).
-In the Data Engineering area, I have solid knowledge in data storage and ingestion, using AWS S3, AWS Glue, AWS DMS (Data Migration Service) and RDS (Relational Database Service). For data processing and orchestration, I work with tools such as AWS Redshift, AWS Athena, AWS Lambda, Apache Airflow (MWAA), Mage.ai, DBT, monitoring with AWS CloudWatch and AWS SNS (Simple Notification Service).
+I have experience in programming with Python, SQL, and Amazon Web Services (AWS). My expertise includes ETL, data modeling, data storage, ingestion, building data pipelines, data processing, orchestration, data visualization, monitoring, and data quality.
 
-Additionally, I have essential skills in ETL (Extract, Transform, Load), data modeling, building data pipelines, data processing, data visualization, and data quality assurance. Other tools and technologies I work with include SQL, databases, deep learning, natural language processing (NLP), language models (LLMs), and generating artificial intelligence (GenAI).
+As a researcher, I am involved in studies and projects related to deep learning, natural language processing (NLP), language models (LLMs), and generating artificial intelligence (GenAI), as well as data science projects.
 
-I also have experience in the quality area, where I worked in Quality Assurance (QA). When executing tests, I performed Front-end and Back-end tests using JavaScript, Ruby and Python, developed, analyzed and explored test scenarios to identify inconsistencies. Documented APIs, managed bugs, re-tests and prioritized tests after configurations, optimizing bug fixes and improving product quality.
+Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby, RSpec, Postman, Cypress, Robot, and other frameworks. I also promote a culture of good documentation practices for conformity, reproducibility, and knowledge dissemination. I enjoy contributing to projects and constantly learning.
+
+---
+
+### Contact
+
+<div>
+  <a href="mailto:adrielertx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nathalia-adriele" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/nathadriele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 ---
 
@@ -39,12 +48,3 @@ I also have experience in the quality area, where I worked in Quality Assurance 
 </p>
 
 ---
-
-### Contact
-
-<div>
-  <a href="https://instagram.com/nathadriele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:adrielertx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathalia-adriele" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</div>
