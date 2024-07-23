@@ -42,7 +42,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 
 <p align="left">
 <a href="https://github.com/nathadriele">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nathadriele&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nathadriele&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nathadriele&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
