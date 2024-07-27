@@ -1,7 +1,7 @@
 
 ### Hello, I'm Nathalia Adriele!
 
-I am a Data Engineer with a Master's degree in Information Science from UNESP (Universidade Estadual Paulista) and I am currently studying an MBA in Data Science and Analytics at USP (University of São Paulo). I am passionate about transforming data into meaningful insights and work with technologies such as Python, Deep Learning, NLP, LLMs and GenAI.
+I am a Data Engineer with a Master's degree in Information Science from UNESP (Universidade Estadual Paulista) and I am currently studying an MBA in Data Science and Analytics at USP (Universidade de São Paulo). I am passionate about transforming data into meaningful insights and work with technologies such as Python, Deep Learning, NLP, LLMs and GenAI.
 
 <div style="display: inline_block"><br>
   <img align="center" " src="https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534">
