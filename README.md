@@ -1,4 +1,3 @@
-
 ### Hello, I'm Nathalia Adriele!
 
 I am a Data Engineer with a Master's degree in Information Science from UNESP (Universidade Estadual Paulista) and I am currently studying an MBA in Data Science and Analytics at USP (Universidade de São Paulo). I am passionate about transforming data into meaningful insights and work with technologies such as Python, Deep Learning, NLP, LLMs and GenAI.
@@ -16,7 +15,7 @@ I am a Data Engineer with a Master's degree in Information Science from UNESP (U
   <img align="center" " src="https://camo.githubusercontent.com/410d86e43f847d3f6e3027fa6f0c2fb7641d893fa601d863a943eac968c41890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465">
 </div>
 
----
+#
 
 ### Technical Skills
 
@@ -26,7 +25,31 @@ As a researcher, I am involved in studies and projects related to deep learning,
 
 Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby, RSpec, Postman, Cypress, Robot, and other frameworks. I also promote a culture of good documentation practices for conformity, reproducibility, and knowledge dissemination. I enjoy contributing to projects and constantly learning.
 
----
+#
+
+### GitHub Analytics
+
+<p align="center">
+    <img alt="Shaggy's Activity Graph"
+        src="https://github-readme-activity-graph.vercel.app/graph/?username=nathadriele&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title="
+        align="center" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img title="🔥 Get streak stats for your profile" alt="Nathalia Adriele's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nathadriele&theme=monokai-metallian&hide_border=false&card_width=860" align="center" width="100%"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/nathadriele">
+    <img height="180em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathadriele&theme=radical">
+    <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathadriele&layout=compact&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nathadriele&show_icons=true&theme=radical">
+  </a>
+</p>
+
+#
 
 ### Contact
 
@@ -35,16 +58,3 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
   <a href="https://www.linkedin.com/in/nathalia-adriele" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/nathadriele" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
----
-
-### GitHub Analytics
-
-<p align="left">
-<a href="https://github.com/nathadriele">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nathadriele&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nathadriele&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
----
