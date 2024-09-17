@@ -42,12 +42,6 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
         align="center" width="100%"/>
 </p>
 
-<p align="center">
-  <a href="#">
-    <img title="🔥 Get streak stats for your profile" alt="Nathalia Adriele's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nathadriele&theme=monokai-metallian&hide_border=false&card_width=860" align="center" width="100%"/>
-  </a>
-</p>
-
 <p align="left">
   <a href="https://github.com/nathadriele">
     <img height="180em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathadriele&theme=radical">
