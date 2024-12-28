@@ -43,12 +43,6 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
 
 ### GitHub Analytics
 
-<p align="center">
-    <img alt="Shaggy's Activity Graph"
-        src="https://github-readme-activity-graph.vercel.app/graph/?username=nathadriele&bg_color=0D1117&color=1F6FEB&line=EB5454&point=58A6FF&hide_border=true&width=860&radius=8&theme=github-compact&area_color=1F6FEB&area=true&height=300&custom_title="
-        align="center" width="100%"/>
-</p>
-
 <p align="left">
   <a href="https://github.com/nathadriele">
     <img height="180em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathadriele&theme=radical">
