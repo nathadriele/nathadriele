@@ -47,7 +47,6 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
   <a href="https://github.com/nathadriele">
     <img height="180em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathadriele&theme=radical">
     <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathadriele&layout=compact&theme=radical"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=nathadriele&show_icons=true&theme=radical">
   </a>
 </p>
 
