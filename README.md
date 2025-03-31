@@ -47,6 +47,12 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
   <a href="https://github.com/nathadriele">
     <img height="180em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathadriele&theme=radical">
     <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathadriele&layout=compact&theme=radical"/>
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathadriele&theme=radical" alt="Nathalia Adriele's GitHub Contribution"/>
+    
+### Visitors Count</b></p>  
+
+<p><img align="center" src="https://profile-counter.glitch.me/{nathadriele}/count.svg" /></p> 
   </a>
 </p>
 
