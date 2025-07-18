@@ -52,7 +52,7 @@ Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby
     
 ### Visitors Count</b></p>  
 
-<a href="https://github.com/bhyeanhasan/"><img src="https://komarev.com/ghpvc/?username=bhyeanhasan" alt="visitors" /></a>
+<a href="https://github.com/bhyeanhasan/"><img src="https://komarev.com/ghpvc/?username=nathadriele" alt="visitors" /></a>
 
 #
 
