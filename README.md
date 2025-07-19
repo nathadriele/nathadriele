@@ -46,10 +46,6 @@ Também possui experiência em Quality Assurance (QA) com uso de JavaScript, Rub
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathadriele&theme=radical" alt="Nathalia Adriele's GitHub Contribution"/>
     
-### Visitors Count</b></p>  
-
-<a href="https://github.com/nathadriele/"><img src="https://komarev.com/ghpvc/?username=nathadriele" alt="visitors" /></a>
-
 #
 
 ### Contact
