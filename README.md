@@ -2,11 +2,11 @@
 
 Engenheira de Dados com Mestrado em Ciência da Informação pela UNESP (Universidade Estadual Paulista) e MBA em Data Science e Analytics pela USP (Universidade de São Paulo). Atua na transformação de dados em insights significativos, utilizando tecnologias como Python, Deep Learning, NLP, LLMs e GenAI.
 
-Experiência sólida em programação com Python, SQL e serviços da Amazon Web Services (AWS). Atuação abrangente em todo o ciclo de engenharia de dados, incluindo processos de ETL, modelagem e armazenamento de dados, ingestão, construção e orquestração de pipelines, processamento de dados, visualização, monitoramento e garantia da qualidade dos dados.
+Experiência em programação com Python, SQL e serviços da Amazon Web Services (AWS). Atuação abrangente em todo o ciclo de engenharia de dados, incluindo processos de ETL, modelagem e armazenamento de dados, ingestão, construção e orquestração de pipelines, processamento de dados, visualização, monitoramento e garantia da qualidade dos dados.
 
-Como pesquisadora, participa de estudos e projetos relacionados a deep learning, processamento de linguagem natural (NLP), modelos de linguagem (LLMs) e geração de inteligência artificial (GenAI), além de projetos na área de ciência de dados.
+Como pesquisadora, participa de estudos e projetos relacionados a Aprendizado Profundo, Processamento de Linguagem Natural, Modelos de Linguagem e geração de inteligência Artificial, além de projetos na área de Ciência de Dados e Análise de Dados.
 
-Também possui experiência em Quality Assurance (QA) com uso de JavaScript, Ruby, RSpec, Postman, Cypress, Robot e outros frameworks. Incentiva a adoção de boas práticas de documentação visando conformidade, reprodutibilidade e disseminação do conhecimento. Atua de forma colaborativa em projetos e mantém constante aprendizado.
+Possui experiência em Quality Assurance (QA), utilizando tecnologias como JavaScript, Ruby, RSpec, Postman, Cypress, Robot Framework, entre outras. Promove a adoção de boas práticas de documentação, com foco em conformidade, reprodutibilidade e disseminação do conhecimento. Atua de forma colaborativa em projetos multidisciplinares e está em constante aprimoramento.
 
   <div class="image-container">
     <img src="https://camo.githubusercontent.com/050fc4e602f25dd4fc337b873fbc62b7d393673a9f4b1e7529a9a61ea35485a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565" alt="Python">
