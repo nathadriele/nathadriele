@@ -1,6 +1,12 @@
-### Hello, I'm Nathalia Adriele!
+### Nathalia Adriele
 
-I am a Data Engineer with a Master's degree in Information Science from UNESP (Universidade Estadual Paulista) and I am currently studying an MBA in Data Science and Analytics at USP (Universidade de São Paulo). I am passionate about transforming data into meaningful insights and work with technologies such as Python, Deep Learning, NLP, LLMs and GenAI.
+Engenheira de Dados com Mestrado em Ciência da Informação pela UNESP (Universidade Estadual Paulista) e MBA em Data Science e Analytics pela USP (Universidade de São Paulo). Atua na transformação de dados em insights significativos, utilizando tecnologias como Python, Deep Learning, NLP, LLMs e GenAI.
+
+Experiência sólida em programação com Python, SQL e serviços da Amazon Web Services (AWS). Atuação abrangente em todo o ciclo de engenharia de dados, incluindo processos de ETL, modelagem e armazenamento de dados, ingestão, construção e orquestração de pipelines, processamento de dados, visualização, monitoramento e garantia da qualidade dos dados.
+
+Como pesquisadora, participa de estudos e projetos relacionados a deep learning, processamento de linguagem natural (NLP), modelos de linguagem (LLMs) e geração de inteligência artificial (GenAI), além de projetos na área de ciência de dados.
+
+Também possui experiência em Quality Assurance (QA) com uso de JavaScript, Ruby, RSpec, Postman, Cypress, Robot e outros frameworks. Incentiva a adoção de boas práticas de documentação visando conformidade, reprodutibilidade e disseminação do conhecimento. Atua de forma colaborativa em projetos e mantém constante aprendizado.
 
   <div class="image-container">
     <img src="https://camo.githubusercontent.com/050fc4e602f25dd4fc337b873fbc62b7d393673a9f4b1e7529a9a61ea35485a5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646443433423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565" alt="Python">
@@ -28,16 +34,6 @@ I am a Data Engineer with a Master's degree in Information Science from UNESP (U
     <img src="https://camo.githubusercontent.com/e76f10de2aabe19f4c11b94d827c160f515dce141b9a14515344b8b8717e5aa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d4c4f70732d707572706c653f7374796c653d666f722d7468652d6261646765" alt="MLops">
     <img src="https://camo.githubusercontent.com/5951249d989cf68c3ea8b9dc3ef331b2fa313c77e369eda197c960d2b990ed4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47656e41492d626c75653f7374796c653d666f722d7468652d6261646765" alt="GenAI">
   </div>
-
-#
-
-### Technical Skills
-
-I have experience in programming with Python, SQL, and Amazon Web Services (AWS). My expertise includes ETL, data modeling, data storage, ingestion, building data pipelines, data processing, orchestration, data visualization, monitoring, and data quality.
-
-As a researcher, I am involved in studies and projects related to deep learning, natural language processing (NLP), language models (LLMs), and generating artificial intelligence (GenAI), as well as data science projects.
-
-Additionally, I have experience in Quality Assurance (QA) using JavaScript, Ruby, RSpec, Postman, Cypress, Robot, and other frameworks. I also promote a culture of good documentation practices for conformity, reproducibility, and knowledge dissemination. I enjoy contributing to projects and constantly learning.
 
 #
 
