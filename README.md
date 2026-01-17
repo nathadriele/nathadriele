@@ -67,6 +67,5 @@ Neste GitHub, apresento projetos que envolvem **Engenharia de Dados, Ciência de
 ### Contato
 
 <div>
-  <a href="mailto:adriele.dataengineering@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathalia-adriele" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
