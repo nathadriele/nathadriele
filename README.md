@@ -26,13 +26,9 @@ Neste GitHub, apresento projetos que envolvem **Engenharia de Dados, Ciência de
 
 **MLOps & Machine Learning**
 - [credit-decision-LLM-RAG-platform](https://github.com/nathadriele/credit-decision-LLM-RAG-platform) – Plataforma enterprise de decisões de crédito com LLMs + RAG.  
-- [mlops-zoomcamp-project-paris-price-house](https://github.com/nathadriele/mlops-zoomcamp-project-paris-price-house) – Predição de preços de imóveis em Paris com Flask, Docker e Grafana.  
 - [vercel-app-mlops-zoomcamp-project-paris-price-house](https://github.com/nathadriele/vercel-app-mlops-zoomcamp-project-paris-price-house) – Aplicação Vercel para housing price prediction.  
 - [stocks-analytics-2025](https://github.com/nathadriele/stocks-analytics-2025) – Pipeline de análise de ações e extração de dados financeiros, análise de séries temporais e automação de trades.   
 - [transaction_fraud_prevention_pipeline](https://github.com/nathadriele/transaction_fraud_prevention_pipeline) – Sistema de prevenção de fraudes financeiras com ML, TensorFlow e dashboards.  
-- [mlops-zoomcamp](https://github.com/nathadriele/mlops-zoomcamp) – Curso prático de MLOps (MLflow, Mage, Flask, Grafana, Terraform).  
-- [machine-learning-zoomcamp](https://github.com/nathadriele/machine-learning-zoomcamp) – Curso avançado de ML com TensorFlow, XGBoost, Docker, AWS, Kubernetes.  
-- [llm-zoomcamp](https://github.com/nathadriele/llm-zoomcamp) – Curso prático sobre LLMs, RAG, OpenAI API, Elasticsearch, HuggingFace.  
 - [biophenotype-rag](https://github.com/nathadriele/biophenotype-rag) – Aplicação RAG para responder questões sobre fenótipos com dados biológicos/genômicos.
 
 **Saúde & Genômica**
@@ -49,7 +45,6 @@ Neste GitHub, apresento projetos que envolvem **Engenharia de Dados, Ciência de
 - [DMS-missing-or-duplicate-data-validation-script](https://github.com/nathadriele/DMS-missing-or-duplicate-data-validation-script) – Validação de dados ausentes ou duplicados em replicações AWS DMS.
 - [S3-folder-cleanup](https://github.com/nathadriele/S3-folder-cleanup) – Automação de limpeza de buckets S3 com Boto3 e Mage.ai.
 - [airflow-tableau-ec2-maintenance](https://github.com/nathadriele/airflow-tableau-ec2-maintenance) – DAG para manutenção automatizada de servidor Tableau em EC2.
-- [data-engineering-zoomcamp](https://github.com/nathadriele/data-engineering-zoomcamp) – Curso prático de Engenharia de Dados (BigQuery, Kafka, Spark, Terraform).
 - [healthAPI-quality-assurance-framework](https://github.com/nathadriele/healthAPI-quality-assurance-framework) – Framework de QA para APIs de saúde com Grafana, SonarQube, automação de testes.
 
 #
