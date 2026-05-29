@@ -1,4 +1,19 @@
-## Nathalia Adriele
+
+<div align="center">
+
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:e96443,100:904e95&amp;height=200&amp;section=header&amp;text=Nathalia%20Adriele&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Senior%20Data%20Engineer%20%E2%80%A2%20Research%20AI&amp;descSize=18&amp;descAlignY=55&amp;descColor=ffffff" 
+    width="100%" 
+    alt="Nathalia Adriele Header"
+  />
+
+  <h3 align="center">
+    PhD Candidate in Information Science focused on applications in AI, Biomedicine & Precision Medicine
+  </h3>
+
+</div>
+
+---
 
 <!-- Linguagens -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,10 +67,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black)
-
-
-
-### Senior Data Engineer · Researcher · PhD Candidate in Information Science, Computation, AI, Biomedicine & Precision Medicine
 
 I am a Senior Data Engineer and Researcher at GenomaSUS — Ministério da Saúde, working on genomics and precision medicine data infrastructure. I am a PhD Candidate at PPGCI/UNESP researching the integration of Large Language Models (LLMs), Knowledge Graphs, and Agentic AI architectures for semantic retrieval of biomedical scientific literature — with focus on multi-agent retrieval systems, bilingual controlled vocabularies (MeSH/DeCS), RAG pipelines, and multi-dimensional evaluation frameworks applied to biomedicine. I am also a Professor at UNIMAR, teaching Machine Learning Applied, Deep Learning, AI Algorithms. I hold an MSc in Information Science (UNESP) and an MBA in Data Science and Analytics (USP).
 
@@ -176,10 +187,3 @@ My work sits at the intersection of data engineering, NLP, and biomedical inform
 
 ---
 
-## Contact
-
-<div>
-  <a href="https://www.linkedin.com/in/nathalia-adriele" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
