@@ -74,18 +74,6 @@ My work sits at the intersection of data engineering, NLP, and biomedical inform
 
 ---
 
-## Technical Skills
-
-- **Languages:** Python, SQL, R, JavaScript, Ruby, TypeScript
-- **Data Engineering & Cloud:** ETL/ELT Pipelines, Workflow Orchestration, AWS (S3, Glue, DMS, RDS, Redshift, Athena, Lambda, Batch, CloudWatch, SNS), dbt, Airflow (MWAA), Mage.ai, Docker, Terraform, Kafka, Spark
-- **Databases:** PostgreSQL, MySQL, MongoDB, Neo4j, Redis
-- **Machine Learning & AI:** Machine Learning, Deep Learning, NLP, LLMs, RAG, GenAI, Knowledge Graphs, Pinecone, TensorFlow, scikit-learn, PyTorch, XGBoost, MLflow, CI/CD for ML
-- **Visualization & Dashboards:** Plotly, Dash, Metabase, Grafana, Tableau, Streamlit
-- **Quality & Testing:** Software QA, Front-end & Back-end Testing, Postman, Cypress, RSpec, Robot Framework, Pytest, New Relic
-- **Tools & Other:** Git/GitHub, Anaconda, Pandas, NumPy, Prefect, LangChain, LlamaIndex, GraphQL, Agile (Scrum, Kanban), Technical Documentation
-
----
-
 ## Projects
 
 ### Health, Genomics & Precision Medicine
